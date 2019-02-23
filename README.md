@@ -4,4 +4,4 @@ Starting to build towards a pathology report analysis system in python. The firs
 
 The pathology reports used are not in the repo due to confidential issues.
 
-
+The mysort1.py is the merge sort algorithm. The extract.py is used to extract patient information from the pathological report and create a list. Then, the merge sort algorithm from mysort1 is used to sort the patient list. The testMergesort.py has three cases to test the merge sort in mysort1.py
