@@ -99,6 +99,5 @@ def getFile(location):  #takes the location of the directory
    
 
 
-getFile("/Users/praitayinikanakaraj/Desktop")  
-
+getFile("/Users/praitayinikanakaraj/Desktop") 
 
